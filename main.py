@@ -43,7 +43,7 @@ while True:
   drawStar(
     display, 
     white,  
-    (120, 150),     
+    (90, 150),     
     50,0)               
   
   pygame.display.update()
